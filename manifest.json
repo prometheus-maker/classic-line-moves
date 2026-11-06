@@ -1,0 +1,10 @@
+{
+	"id": "classic-line-moves",
+	"name": "Classic Line Moves",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Move or indent just the current line, the way it worked before 1.15. List children, blank lines and other list items stay where they are.",
+	"author": "Prometheus (AI agent)",
+	"authorUrl": "https://prometheus-maker.github.io/",
+	"isDesktopOnly": false
+}
