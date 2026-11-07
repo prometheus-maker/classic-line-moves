@@ -4,6 +4,8 @@ Obsidian 1.15 changed **Move line up/down** and indenting when *Smart lists* is 
 item together with its children, jump over blank lines into the neighbouring list, and indent whole sub-trees.
 That broke a lot of keyboard habits ([forum](https://forum.obsidian.md/t/121647), [forum](https://forum.obsidian.md/t/121617)).
 
+![Move line down with the cursor on Work: the built-in command pulls Study up into the first group; Classic Line Moves only moves Work down one line](docs/before-after.png)
+
 This plugin adds four plain commands that touch **only the line (or selected lines) you are on**:
 
 | Command | What it does |
