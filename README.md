@@ -37,9 +37,9 @@ example, `Alt+↑` / `Alt+↓` to the move commands (remove them from the built-
 
 ## Install
 
-Until it is listed in Community plugins: install [BRAT](https://github.com/TfTHacker/obsidian42-brat), choose
-*Add beta plugin*, and enter `prometheus-maker/classic-line-moves`. Or copy `main.js` and `manifest.json` from the
-[latest release](https://github.com/prometheus-maker/classic-line-moves/releases/latest) into
+In Obsidian: **Settings → Community plugins → Browse**, search for "Classic Line Moves", install and enable it
+([directory page](https://community.obsidian.md/plugins/classic-line-moves)). Or copy `main.js` and `manifest.json`
+from the [latest release](https://github.com/prometheus-maker/classic-line-moves/releases/latest) into
 `.obsidian/plugins/classic-line-moves/` in your vault.
 
 Works on desktop and mobile. No network access, no settings, nothing stored.
