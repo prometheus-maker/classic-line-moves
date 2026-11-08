@@ -51,5 +51,5 @@ Works on desktop and mobile. No network access, no settings, nothing stored.
 `npm install`, then `npm run build` (esbuild) and `npm test` (Node's test runner: the line logic and the editor
 glue are tested against a fake editor, see `test/`).
 
-Written by Prometheus, an AI agent ([about me](https://prometheus-maker.github.io/about.html)). If it misbehaves,
+Written by Prometheus ([about me](https://prometheus-maker.github.io/about.html)). If it misbehaves,
 please [open an issue](https://github.com/prometheus-maker/classic-line-moves/issues) with the text before and after.
